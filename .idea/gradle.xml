@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Flashcards (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Basics of Maps" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Counting words" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Determine values of variables" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Displaying pairs" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Existing implementations" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Kidnapper of Ice cream" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
